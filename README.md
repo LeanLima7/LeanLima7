@@ -1,7 +1,5 @@
 ## Oi, meu nome é Leanderson Lima!
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
 💻 *Estudante de Engenharia de Software na AMPLI*
 
 
@@ -9,7 +7,7 @@
 **Estudando atualmente:** Java, C, C++, C# e .NET.   
 **Trabalho com:** SQL, Testes Funcionais e Roteiros de Testes.
 
-Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando no linkedin ou gmail.
+Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando aqui no GitHub ou no Linkedin.
 
 <a href="https://www.linkedin.com/in/leanderson-dias-de-lima-15056215b/">
     <img
@@ -26,6 +24,3 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
   
   ##
 
-![Snake animation](https://github.com/leanlima7/leanlima7/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
