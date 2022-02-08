@@ -9,6 +9,7 @@
 
 Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando aqui no GitHub ou no Linkedin.
 
+
 #
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leanderson-dias-de-lima-15056215b/)
@@ -38,3 +39,6 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
   
  #
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanlima7&" alt="leanlima7"theme=dark /></p>
+
+<img align="left" alt="Coding" width="400" src="https://i.gifer.com/RfmR.gif">
