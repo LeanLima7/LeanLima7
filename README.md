@@ -1,4 +1,4 @@
-## Oi, meu nome é Leanderson Lima!
+## Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, meu nome é Leanderson Lima!
 
 💻 *Estudante de Engenharia de Software na AMPLI*
 
