@@ -41,4 +41,4 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanlima7&" alt="leanlima7"theme=dark /></p>
 
-<img align="left" alt="Coding" width="400" src="https://i.gifer.com/RfmR.gif">
+
