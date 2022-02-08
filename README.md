@@ -16,7 +16,7 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
 
 #
     
-<div align="right">
+<div align="left">
   <a href="https://github.com/LeanLima7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeanLima7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeanLima7&layout=compact&langs_count=7&theme=dark"/>
