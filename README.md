@@ -32,7 +32,8 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
   <img align="center" alt="Rafa-Csharp" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafa-Csharp" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
-       
+  <img align="center" alt="Rafa-Csharp" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+            
 </div>
   
  #
