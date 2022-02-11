@@ -16,20 +16,8 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leanderson-dias-de-lima-15056215b/)
 [![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeanLima7)
 
-# 
-**Painel de atividades**
-
-    
-<div align="left">
-  <a href="https://github.com/LeanLima7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeanLima7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeanLima7&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-    
-# 
+#
 **Linguagens de estudo**
-
     
 <div style="display: inline_block"><br>
     
@@ -42,10 +30,18 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
             
 </div>
   
+# 
+**Painel de atividades**
+
+<div align="left">
+<a href="https://github.com/LeanLima7">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeanLima7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leanlima7&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeanLima7&layout=compact&langs_count=7&theme=dark"/>
+</div>
  
  #
-**Atividades**
-    
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanlima7&" alt="leanlima7"theme=dark /></p>
 
 
