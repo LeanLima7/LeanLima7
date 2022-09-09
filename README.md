@@ -13,7 +13,7 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
 **Conecte-se comigo**
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leanderson-dias-de-lima-15056215b/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leanderson-dias-de-lima/)
 [![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeanLima7)
 
 #
