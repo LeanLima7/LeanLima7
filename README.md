@@ -1,23 +1,22 @@
-## Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, meu nome é Leanderson Lima!
+## Hi <img src="https://user-images.githubusercontent.com/87840459/191373854-9d5afa1d-9f51-484e-ac31-5fc1d3b30161.gif" width="30px">, my name is Leanderson Lima!
 
-💻 *Estudante de Engenharia de Software na AMPLI
+💻 *Software Engineering Student
 
 
-**Áreas de interesse:** Quality Assurance e Engenharia de Dados.  
-**Estudando atualmente:** Java, C, C++, C# e .NET.   
-**Trabalho com:** SQL, Testes Funcionais e Roteiros de Testes.
+**Areas that pique my interest:** Quality Assurance / Data Science / FullStack / Games
+**Currently Studying:** Java, C, C# and .NET.
+**Current Position:** I work as a FullStack at [Wipro](https://www.linkedin.com/company/wipro/mycompany/verification/)
 
-Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando aqui no GitHub ou no Linkedin.
+I want to practice and share my studies here. Feel free to leave any questions, tips or any feedback by calling me here on GitHub or Linkedin.
 
 # 
-**Conecte-se comigo**
-
+**Connect with me**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leanderson-dias-de-lima/)
 [![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeanLima7)
 
 #
-**Linguagens de estudo**
+**Study Languages**
     
 <div style="display: inline_block"><br>
     
@@ -31,7 +30,7 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
 </div>
   
 # 
-**Painel de atividades**
+**Activity Panel**
 
 <div align="left">
 <a href="https://github.com/LeanLima7">
