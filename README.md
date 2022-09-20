@@ -1,13 +1,15 @@
-## Hi <img src="https://user-images.githubusercontent.com/87840459/191373854-9d5afa1d-9f51-484e-ac31-5fc1d3b30161.gif" width="30px">, my name is Leanderson Lima!
+# Hi <img src="https://user-images.githubusercontent.com/87840459/191373854-9d5afa1d-9f51-484e-ac31-5fc1d3b30161.gif" width="30px">, my name is Leanderson Lima!
 
-💻 *Software Engineering Student
+💻 **Software Engineering Student**
 
+**Areas that pique my interest:** 
+Quality Assurance || Data Science || FullStack || Games
 
-**Areas that pique my interest:** Quality Assurance / Data Science / FullStack / Games
-**Currently Studying:** Java, C, C# and .NET.
-**Current Position:** I work as a FullStack at [Wipro](https://www.linkedin.com/company/wipro/mycompany/verification/)
+**Currently Studying:** 
+Java, C, C# and .NET
 
-I want to practice and share my studies here. Feel free to leave any questions, tips or any feedback by calling me here on GitHub or Linkedin.
+**Current Position:** 
+I work as a FullStack at [Wipro](https://www.linkedin.com/company/wipro/mycompany/verification/)
 
 # 
 **Connect with me**
