@@ -2,7 +2,7 @@
 
 💻 **Software Engineering Student**
 
-**Areas that pique my interest:** 
+**Fields that pique my interest:** 
 Quality Assurance || Data Science || FullStack || Games
 
 **Currently Studying:** 
